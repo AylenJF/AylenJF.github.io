@@ -105,10 +105,6 @@ p {
 
 }
 
-@-webkit-keyframes animat_show{
-    0%{opacity:0}
-    100%{opacity:1}
-}
 
 .fadeLeft {
     -webkit-animation: animat_show_left  2s;
