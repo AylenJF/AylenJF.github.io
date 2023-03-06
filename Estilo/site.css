@@ -14,7 +14,6 @@ nav .navbar-nav li a
 
 
 .navbar a{
-    color:maroon;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
 }
 
@@ -46,22 +45,6 @@ p {
         background:#f9f9f9 !important;
 		width:90% !important;
 		border:1px solid #bbb;
-}
-
-.cardHorario:hover
-{
-    background-color: #3e8e41;
-    color: white;
-}
-
-.starHorario, .starImage {
-    visibility: hidden;
-}
-
-.fadeIn {
-    -webkit-animation: animat_show 2s;
-    animation: animat_show 2s;
-    visibility: visible !important;
 }
 
 
@@ -137,6 +120,7 @@ p {
     from {left: -2000px;}
     to {left: 0px;}
   }
+
   #myBtn {
     
     position: fixed; 
