@@ -112,10 +112,7 @@ p {
     visibility: visible !important;
 }
 
-@keyframes animat_show_left {
-    from {left: -2000px;}
-    to {left: 0px;}
-  }
+
 
   #myBtn {
     
